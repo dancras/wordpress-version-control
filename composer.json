@@ -1,0 +1,17 @@
+{
+    "name": "dancras/wordpress-version-control",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Howlett",
+            "email": "dan@dancras.co.uk"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.1",
+        "wp-coding-standards/wpcs": "^0.14.0",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.4.3"
+    }
+}
