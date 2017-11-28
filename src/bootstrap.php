@@ -1,15 +1,17 @@
 <?php
 /**
- * Description: TBD
+ * Bootstrap the WordPress Version Control plugin.
  *
+ * @package wordpress_version_control
+ *
+ * @wordpress-plugin
  * Plugin Name: WordPress Version Control
  * Plugin URI: https://github.com/dancras/wordpress-version-control
+ * Description: TBD
  * Version: 0.0.1
  * Author: Daniel Howlett
  * Author URI: http://dancras.co.uk/
  * License: MIT
- *
- * @package wordpress_version_control
  */
 
 namespace wordpress_version_control;
